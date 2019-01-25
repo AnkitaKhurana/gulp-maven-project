@@ -92,7 +92,7 @@
             </goals>
             <configuration>
               <npmVersion>6.4.1</npmVersion>
-              <nodeVersion>win-x64/v9.9.0</nodeVersion>
+              <nodeVersion>v9.9.0/win-x64</nodeVersion>
             </configuration>
           </execution>
           <execution>
